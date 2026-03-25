@@ -1,7 +1,6 @@
 {
   "prompt": "Aerial top-down view of the Arctic Ocean at summer's end, fine-art photography style. A small luminous white and pale-blue fractured ice mass sits at the center, surrounded by vast dark indigo open ocean. The ice occupies only one-third of the frame — the rest is dark still water. Shot from directly above, perfectly circular composition, no horizon, no land, no people. The mood is quiet and mournful, like witnessing something disappear. Cold color palette: near-black ocean, pale arctic white ice, steel blue meltwater. Photorealistic, ultra detailed, single image. This image contains absolutely no text, no numbers, no labels, no axes, no charts, no bar graphs, no pie charts, no data overlays, no map outlines, no infographic elements, no polar bears, no thermometers, no globe icons.",
   "model": "Ideogram 2",
-  "dataset_name": "NSIDC Arctic Sea Ice Extent Data (1979–2024)",
-  "dataset_url": "https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-extent-levels-2024-minimum-set",
-  "insight": "The 18 lowest Arctic sea ice extents in the 46-year satellite record have all occurred in the last 18 consecutive years (2007–2024), meaning every single recent summer has broken what once would have been a catastrophic record."
+  "concept": "Arctic ice loss",
+  "metaphor": "A tiny bright ice remnant drowning in vast dark ocean — the shrinking white form maps directly to 18 consecutive years of record-low sea ice extent."
 }
