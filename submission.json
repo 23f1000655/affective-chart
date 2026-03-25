@@ -1,6 +1,6 @@
 {
-  "prompt": "Aerial top-down view of the Arctic Ocean at summer's end, fine-art photography style. A small luminous white and pale-blue fractured ice mass sits at the center, surrounded by vast dark indigo open ocean. The ice occupies only one-third of the frame — the rest is dark still water. Shot from directly above, perfectly circular composition, no horizon, no land, no people. The mood is quiet and mournful, like witnessing something disappear. Cold color palette: near-black ocean, pale arctic white ice, steel blue meltwater. Photorealistic, ultra detailed, single image. This image contains absolutely no text, no numbers, no labels, no axes, no charts, no bar graphs, no pie charts, no data overlays, no map outlines, no infographic elements, no polar bears, no thermometers, no globe icons.",
+  "prompt": "Three archery targets side by side, viewed straight on, photorealistic, dramatic studio lighting against a dark background. Left target: arrows clustered tightly in the bottom-left corner, far from center — grouped but wrong. Middle target: arrows scattered randomly across the entire target face, no pattern, chaos. Right target: arrows clustered tightly at the bullseye, perfectly centered. Each target is weathered wood and canvas. The three targets tell a visual story of precision versus accuracy. Cinematic, moody, single frame, no text, no labels, no numbers, no annotations, no charts, no graphs, no overlays, no infographic elements whatsoever.",
   "model": "Ideogram 2",
-  "concept": "Arctic ice loss",
-  "metaphor": "A tiny bright ice remnant drowning in vast dark ocean — the shrinking white form maps directly to 18 consecutive years of record-low sea ice extent."
+  "concept": "Bias-variance tradeoff",
+  "metaphor": "Three archery targets: arrows clustered off-center (high bias), arrows scattered widely (high variance), arrows tight at bullseye (optimal balance)."
 }
